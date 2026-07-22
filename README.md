@@ -44,7 +44,7 @@
 
 <!-- ══════════════ ABOUT SECTION ══════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;Giới Thiệu & Năng Lực Cốt Lõi
+## <img src="https://api.iconify.design/lucide:user-check.svg?color=%232563eb" width="24" /> &nbsp;Giới Thiệu & Năng Lực Cốt Lõi
 
 ```js
 // ═══ kinnhun.config.js ═══
@@ -69,17 +69,17 @@ const developer = {
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" alt="Rocket" /><br/>
+      <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="36" alt="SEO & Performance" /><br/>
       <b>SEO & Performance</b><br/>
       <sub>PageSpeed 95+ · SEO Audit chuẩn Google<br/>Responsive mượt mà · Load dưới 1s</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40" alt="Robot" /><br/>
+      <img src="https://api.iconify.design/lucide:bot.svg?color=%237C4DFF" width="36" alt="AI & Automation" /><br/>
       <b>AI & Automation</b><br/>
       <sub>Gemini AI · OpenAI API · Chatbot LLM<br/>Scraping Bot · Workflow tự động hóa</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40" alt="Shield" /><br/>
+      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322c55e" width="36" alt="Bảo hành & Hỗ trợ" /><br/>
       <b>Bảo hành & Hỗ trợ</b><br/>
       <sub>6 tháng warranty · Clean Architecture<br/>Source code bàn giao · Hỗ trợ 24/7</sub>
     </td>
@@ -90,7 +90,7 @@ const developer = {
 
 <!-- ══════════════ TECH STACK SECTION ══════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Công Nghệ & Hệ Sinh Thái Kỹ Thuật
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%232563eb" width="24" /> &nbsp;Công Nghệ & Hệ Sinh Thái Kỹ Thuật
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -115,7 +115,7 @@ const developer = {
 
 <!-- ══════════════ PROJECTS SECTION ══════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" /> &nbsp;Dự Án Tiêu Biểu — 150+ Projects Completed
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232563eb" width="24" /> &nbsp;Dự Án Tiêu Biểu — 150+ Projects Completed
 
 <!-- ── GROUP 1: Enterprise & ERP ── -->
 
@@ -288,7 +288,7 @@ const developer = {
 
 <!-- ══════════════ GITHUB STATS SECTION ══════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;Thống Kê Hoạt Động GitHub
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%232563eb" width="24" /> &nbsp;Thống Kê Hoạt Động GitHub
 
 <div align="center">
 
@@ -309,7 +309,7 @@ const developer = {
 
 <!-- ══════════════ CONTACT SECTION ══════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Liên Hệ Hợp Tác & Tư Vấn Dự Án
+## <img src="https://api.iconify.design/lucide:messages-square.svg?color=%232563eb" width="24" /> &nbsp;Liên Hệ Hợp Tác & Tư Vấn Dự Án
 
 <div align="center">
 
