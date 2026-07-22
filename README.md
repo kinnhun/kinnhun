@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Header Title -->
-  <a href="https://zalo.me/0862497002" target="_blank">
+  <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=Tr%E1%BA%A7n+Trung+Ki%C3%AAn+%E2%80%94+Web+%26+AI+Developer;Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;Chu%E1%BA%A9n+SEO+100%25+%7C+150%2B+D%E1%BB%B1+%C3%A1n+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng" alt="Trần Trung Kiên - Web & AI Developer Slogan" />
   </a>
 
@@ -12,10 +12,10 @@
 
   <!-- Interactive Badges Row -->
   <p align="center">
-    <a href="https://zalo.me/0862497002" target="_blank">
+    <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Zalo-0862_497_002-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Contact" />
     </a>
-    <a href="https://www.facebook.com/trantrungkien.webai" target="_blank">
+    <a href="https://www.facebook.com/trantrungkien.webai" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-trantrungkien.webai-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook WebAI" />
     </a>
     <img src="https://img.shields.io/badge/Triển_khai-150%2B_Dự_án-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="150+ Projects Done" />
@@ -83,12 +83,12 @@ developer_profile:
 
 <div align="center">
 
-| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Đường Dẫn Truy Cập Website |
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website (Mở Tab Mới) |
 | :---: | :--- | :---: |
-| <a href="https://onlyoffice.mercytechglobal.com/" target="_blank"><img src="./assets/projects/mercy-keys.png" width="360" alt="Mercy Keys Preview" style="border-radius:10px;" /></a> | **Mercy Keys — License & Authorization Management**<br/>• Quản lý bản quyền & cấp phép phần mềm OnlyOffice tự động.<br/>• Tích hợp sinh key mã hóa, quản lý khách hàng doanh nghiệp.<br/>• **Tech:** `Next.js` `TypeScript` `Tailwind` `PostgreSQL` | <a href="https://onlyoffice.mercytechglobal.com/" target="_blank"><b>onlyoffice.mercytechglobal.com ↗</b></a> |
-| <a href="https://mercytechglobal.com/" target="_blank"><img src="./assets/projects/mercy-tech.png" width="360" alt="Mercy Tech Global Preview" style="border-radius:10px;" /></a> | **Mercy Tech Global Portal**<br/>• Portal chính thức của tập đoàn công nghệ Mercy Tech Global.<br/>• Giao diện Glassmorphism hiện đại, tối ưu SEO 98/100.<br/>• **Tech:** `Next.js App Router` `Framer Motion` `SEO Standard` | <a href="https://mercytechglobal.com/" target="_blank"><b>mercytechglobal.com ↗</b></a> |
-| <a href="https://www.tuankey.com/" target="_blank"><img src="./assets/projects/tuankey.png" width="360" alt="TuanKey Preview" style="border-radius:10px;" /></a> | **TuanKey System — License Key Distribution**<br/>• Nền tảng phân phối & quản lý License key tự động 100%.<br/>• Tích hợp hệ thống thanh toán tự động & quản lý API.<br/>• **Tech:** `Web App` `Node.js` `Automation` `Payment API` | <a href="https://www.tuankey.com/" target="_blank"><b>tuankey.com ↗</b></a> |
-| <a href="https://app-buffet.vercel.app/" target="_blank"><img src="./assets/projects/app-buffet.png" width="360" alt="App Buffet Preview" style="border-radius:10px;" /></a> | **App Buffet Manager — Smart Restaurant Platform**<br/>• Web App quản lý nhà hàng & đặt món Buffet thông minh.<br/>• Quản lý sơ đồ bàn, menu món & thống kê doanh thu real-time.<br/>• **Tech:** `Next.js` `React` `Tailwind CSS` `Vercel` | <a href="https://app-buffet.vercel.app/" target="_blank"><b>app-buffet.vercel.app ↗</b></a> |
+| <a href="https://onlyoffice.mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/mercy-keys.png" width="360" alt="Mercy Keys Preview" style="border-radius:10px;" /></a> | **Mercy Keys — License & Authorization Management**<br/>• Quản lý bản quyền & cấp phép phần mềm OnlyOffice tự động.<br/>• Tích hợp sinh key mã hóa, quản lý khách hàng doanh nghiệp.<br/>• **Tech:** `Next.js` `TypeScript` `Tailwind` `PostgreSQL` | <a href="https://onlyoffice.mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live Mercy Keys" /></a><br/><sub style="font-size:11px;"><a href="https://onlyoffice.mercytechglobal.com/" target="_blank" rel="noopener noreferrer">onlyoffice.mercytechglobal.com ↗</a></sub> |
+| <a href="https://mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/mercy-tech.png" width="360" alt="Mercy Tech Global Preview" style="border-radius:10px;" /></a> | **Mercy Tech Global Portal**<br/>• Portal chính thức của tập đoàn công nghệ Mercy Tech Global.<br/>• Giao diện Glassmorphism hiện đại, tối ưu SEO 98/100.<br/>• **Tech:** `Next.js App Router` `Framer Motion` `SEO Standard` | <a href="https://mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live Mercy Tech" /></a><br/><sub style="font-size:11px;"><a href="https://mercytechglobal.com/" target="_blank" rel="noopener noreferrer">mercytechglobal.com ↗</a></sub> |
+| <a href="https://www.tuankey.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/tuankey.png" width="360" alt="TuanKey Preview" style="border-radius:10px;" /></a> | **TuanKey System — License Key Distribution**<br/>• Nền tảng phân phối & quản lý License key tự động 100%.<br/>• Tích hợp hệ thống thanh toán tự động & quản lý API.<br/>• **Tech:** `Web App` `Node.js` `Automation` `Payment API` | <a href="https://www.tuankey.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live TuanKey" /></a><br/><sub style="font-size:11px;"><a href="https://www.tuankey.com/" target="_blank" rel="noopener noreferrer">tuankey.com ↗</a></sub> |
+| <a href="https://app-buffet.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/app-buffet.png" width="360" alt="App Buffet Preview" style="border-radius:10px;" /></a> | **App Buffet Manager — Smart Restaurant Platform**<br/>• Web App quản lý nhà hàng & đặt món Buffet thông minh.<br/>• Quản lý sơ đồ bàn, menu món & thống kê doanh thu real-time.<br/>• **Tech:** `Next.js` `React` `Tailwind CSS` `Vercel` | <a href="https://app-buffet.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live App Buffet" /></a><br/><sub style="font-size:11px;"><a href="https://app-buffet.vercel.app/" target="_blank" rel="noopener noreferrer">app-buffet.vercel.app ↗</a></sub> |
 
 </div>
 
@@ -98,11 +98,11 @@ developer_profile:
 
 <div align="center">
 
-| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Đường Dẫn Truy Cập Website |
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website (Mở Tab Mới) |
 | :---: | :--- | :---: |
-| <a href="https://ppa.binhminhpower.com/" target="_blank"><img src="./assets/projects/ppa-binhminh.png" width="360" alt="PPA Binh Minh Power Preview" style="border-radius:10px;" /></a> | **PPA Bình Minh Power — Direct Power Purchase**<br/>• Hệ thống Quản lý & Hợp đồng Mua bán Điện Trực tiếp (PPA).<br/>• Số hóa hợp đồng điện năng lượng mặt trời cho doanh nghiệp.<br/>• **Tech:** `Next.js` `Tailwind CSS` `Energy Management` | <a href="https://ppa.binhminhpower.com/" target="_blank"><b>ppa.binhminhpower.com ↗</b></a> |
-| <a href="https://cbam.mercytechglobal.com/" target="_blank"><img src="./assets/projects/cbam-carbon.png" width="360" alt="CBAM Carbon Preview" style="border-radius:10px;" /></a> | **CBAM Carbon Management — International Carbon Accounting**<br/>• Nền tảng Kiểm kê & Tính toán Tải lượng Carbon CBAM xuất khẩu EU.<br/>• Đáp ứng quy chuẩn khí thải quốc tế & báo cáo tự động.<br/>• **Tech:** `Next.js` `Python Analytics` `Carbon CBAM` | <a href="https://cbam.mercytechglobal.com/" target="_blank"><b>cbam.mercytechglobal.com ↗</b></a> |
-| <a href="https://epc.binhminhpower.com/" target="_blank"><img src="./assets/projects/epc-binhminh.png" width="360" alt="EPC Binh Minh Preview" style="border-radius:10px;" /></a> | **EPC Bình Minh Power — Solar Project Engineering**<br/>• Hệ thống Quản lý Dự án Thiết kế, Mua sắm & Thi công Năng lượng EPC.<br/>• Quản lý tiến độ công trình, vật tư & chất lượng dự án.<br/>• **Tech:** `Web App` `PostgreSQL` `SaaS Dashboard` | <a href="https://epc.binhminhpower.com/" target="_blank"><b>epc.binhminhpower.com ↗</b></a> |
+| <a href="https://ppa.binhminhpower.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/ppa-binhminh.png" width="360" alt="PPA Binh Minh Power Preview" style="border-radius:10px;" /></a> | **PPA Bình Minh Power — Direct Power Purchase**<br/>• Hệ thống Quản lý & Hợp đồng Mua bán Điện Trực tiếp (PPA).<br/>• Số hóa hợp đồng điện năng lượng mặt trời cho doanh nghiệp.<br/>• **Tech:** `Next.js` `Tailwind CSS` `Energy Management` | <a href="https://ppa.binhminhpower.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live PPA" /></a><br/><sub style="font-size:11px;"><a href="https://ppa.binhminhpower.com/" target="_blank" rel="noopener noreferrer">ppa.binhminhpower.com ↗</a></sub> |
+| <a href="https://cbam.mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/cbam-carbon.png" width="360" alt="CBAM Carbon Preview" style="border-radius:10px;" /></a> | **CBAM Carbon Management — International Carbon Accounting**<br/>• Nền tảng Kiểm kê & Tính toán Tải lượng Carbon CBAM xuất khẩu EU.<br/>• Đáp ứng quy chuẩn khí thải quốc tế & báo cáo tự động.<br/>• **Tech:** `Next.js` `Python Analytics` `Carbon CBAM` | <a href="https://cbam.mercytechglobal.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live CBAM" /></a><br/><sub style="font-size:11px;"><a href="https://cbam.mercytechglobal.com/" target="_blank" rel="noopener noreferrer">cbam.mercytechglobal.com ↗</a></sub> |
+| <a href="https://epc.binhminhpower.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/epc-binhminh.png" width="360" alt="EPC Binh Minh Preview" style="border-radius:10px;" /></a> | **EPC Bình Minh Power — Solar Project Engineering**<br/>• Hệ thống Quản lý Dự án Thiết kế, Mua sắm & Thi công Năng lượng EPC.<br/>• Quản lý tiến độ công trình, vật tư & chất lượng dự án.<br/>• **Tech:** `Web App` `PostgreSQL` `SaaS Dashboard` | <a href="https://epc.binhminhpower.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live EPC" /></a><br/><sub style="font-size:11px;"><a href="https://epc.binhminhpower.com/" target="_blank" rel="noopener noreferrer">epc.binhminhpower.com ↗</a></sub> |
 
 </div>
 
@@ -112,12 +112,12 @@ developer_profile:
 
 <div align="center">
 
-| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Đường Dẫn Truy Cập Website |
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website (Mở Tab Mới) |
 | :---: | :--- | :---: |
-| <a href="https://www.luyenthicaptoc.vn/" target="_blank"><img src="./assets/projects/luyenthicaptoc.png" width="360" alt="Luyen Thi Cap Toc Preview" style="border-radius:10px;" /></a> | **Luyện Thi Cấp Tốc — EdTech Exam Prep Platform**<br/>• Nền tảng học & ôn thi trực tuyến tối ưu trải nghiệm học viên.<br/>• Ngân hàng đề thi trắc nghiệm thông minh, tính điểm tức thì.<br/>• **Tech:** `React` `Next.js` `SEO High Score` | <a href="https://www.luyenthicaptoc.vn/" target="_blank"><b>luyenthicaptoc.vn ↗</b></a> |
-| <a href="https://langdevietnam.com/" target="_blank"><img src="./assets/projects/langdevietnam.png" width="360" alt="Lang De Viet Nam Preview" style="border-radius:10px;" /></a> | **Làng Đề Việt Nam — Cultural Heritage Portal**<br/>• Trang thông tin văn hóa & di sản làng nghề Việt Nam chuẩn SEO Google.<br/>• Tải trang cực nhanh, tối ưu cấu trúc schema dữ liệu di sản.<br/>• **Tech:** `Next.js` `SEO Optimization` `Responsive` | <a href="https://langdevietnam.com/" target="_blank"><b>langdevietnam.com ↗</b></a> |
-| <a href="https://github.com/kinnhun/misucloset" target="_blank"><img src="./assets/projects/misu-closet.png" width="360" alt="MISU Closet Preview" style="border-radius:10px;" /></a> | **MISU Closet — Modern E-Commerce Platform**<br/>• Nền tảng E-Commerce thời trang hiện đại & mượt mà.<br/>• Quản lý sản phẩm, giỏ hàng & thanh toán trực tuyến.<br/>• **Tech:** `Next.js` `Tailwind CSS` `TypeScript` | <a href="https://github.com/kinnhun/misucloset" target="_blank"><b>github/misucloset ↗</b></a> |
-| <a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank"><img src="./assets/projects/hgs-management.png" width="360" alt="HGS Management Preview" style="border-radius:10px;" /></a> | **HGS Management — School & Academy ERP System**<br/>• Hệ thống quản lý trường học & đào tạo trực tuyến toàn diện.<br/>• Phân quyền giáo viên, học sinh, điểm số & học phí.<br/>• **Tech:** `React` `Node.js` `MongoDB` `Express` | <a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank"><b>github/hgs-management ↗</b></a> |
+| <a href="https://www.luyenthicaptoc.vn/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/luyenthicaptoc.png" width="360" alt="Luyen Thi Cap Toc Preview" style="border-radius:10px;" /></a> | **Luyện Thi Cấp Tốc — EdTech Exam Prep Platform**<br/>• Nền tảng học & ôn thi trực tuyến tối ưu trải nghiệm học viên.<br/>• Ngân hàng đề thi trắc nghiệm thông minh, tính điểm tức thì.<br/>• **Tech:** `React` `Next.js` `SEO High Score` | <a href="https://www.luyenthicaptoc.vn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live Luyện Thi Cấp Tốc" /></a><br/><sub style="font-size:11px;"><a href="https://www.luyenthicaptoc.vn/" target="_blank" rel="noopener noreferrer">luyenthicaptoc.vn ↗</a></sub> |
+| <a href="https://langdevietnam.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/langdevietnam.png" width="360" alt="Lang De Viet Nam Preview" style="border-radius:10px;" /></a> | **Làng Đề Việt Nam — Cultural Heritage Portal**<br/>• Trang thông tin văn hóa & di sản làng nghề Việt Nam chuẩn SEO Google.<br/>• Tải trang cực nhanh, tối ưu cấu trúc schema dữ liệu di sản.<br/>• **Tech:** `Next.js` `SEO Optimization` `Responsive` | <a href="https://langdevietnam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/XEM_LIVE-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Xem Live Làng Đề" /></a><br/><sub style="font-size:11px;"><a href="https://langdevietnam.com/" target="_blank" rel="noopener noreferrer">langdevietnam.com ↗</a></sub> |
+| <a href="https://github.com/kinnhun/misucloset" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/misu-closet.png" width="360" alt="MISU Closet Preview" style="border-radius:10px;" /></a> | **MISU Closet — Modern E-Commerce Platform**<br/>• Nền tảng E-Commerce thời trang hiện đại & mượt mà.<br/>• Quản lý sản phẩm, giỏ hàng & thanh toán trực tuyến.<br/>• **Tech:** `Next.js` `Tailwind CSS` `TypeScript` | <a href="https://github.com/kinnhun/misucloset" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo MISU Closet" /></a><br/><sub style="font-size:11px;"><a href="https://github.com/kinnhun/misucloset" target="_blank" rel="noopener noreferrer">github/misucloset ↗</a></sub> |
+| <a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank" rel="noopener noreferrer"><img src="./assets/projects/hgs-management.png" width="360" alt="HGS Management Preview" style="border-radius:10px;" /></a> | **HGS Management — School & Academy ERP System**<br/>• Hệ thống quản lý trường học & đào tạo trực tuyến toàn diện.<br/>• Phân quyền giáo viên, học sinh, điểm số & học phí.<br/>• **Tech:** `React` `Node.js` `MongoDB` `Express` | <a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo HGS Management" /></a><br/><sub style="font-size:11px;"><a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank" rel="noopener noreferrer">github/hgs-management ↗</a></sub> |
 
 </div>
 
@@ -150,13 +150,13 @@ developer_profile:
 
 <div align="center">
 
-<a href="https://zalo.me/0862497002" target="_blank">
+<a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Zalo-0862_497_002-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Contact" />
 </a>
-<a href="https://www.facebook.com/trantrungkien.webai" target="_blank">
+<a href="https://www.facebook.com/trantrungkien.webai" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook_Page-trantrungkien.webai-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB WebAI" />
 </a>
-<a href="https://www.facebook.com/kin2901" target="_blank">
+<a href="https://www.facebook.com/kin2901" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook_Personal-kin2901-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="FB Personal" />
 </a>
 
