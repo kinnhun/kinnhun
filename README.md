@@ -1,14 +1,16 @@
 <div align="center">
 
-  <!-- Animated Header Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=70&lines=Tr%E1%BA%A7n+Trung+Ki%C3%AAn+%E2%80%94+Web+%26+AI+Developer;Thi%E1%BA%BFt+k%E1%BA%BF+Website%2C+App%2C+AI+%26+Tool+T%E1%BB%B1+%C4%90%E1%BB%99ng;Chu%E1%BA%A9n+SEO+%7C+150%2B+D%E1%BB%B1+%C3%A1n+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng" alt="Trần Trung Kiên - Web & AI Developer Slogan" />
+  <!-- Dynamic Typing Header Title -->
+  <a href="https://zalo.me/0862497002" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=Tr%E1%BA%A7n+Trung+Ki%C3%AAn+%E2%80%94+Web+%26+AI+Developer;Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;Chu%E1%BA%A9n+SEO+100%25+%7C+150%2B+D%E1%BB%B1+%C3%A1n+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng" alt="Trần Trung Kiên - Web & AI Developer Slogan" />
+  </a>
 
   <p align="center">
-    <strong><img src="https://api.iconify.design/lucide:zap.svg?color=%232563eb" width="18" /> Chuyên thiết kế Website chuẩn SEO, Web App, Tích hợp AI & Automation Tools <img src="https://api.iconify.design/lucide:zap.svg?color=%232563eb" width="18" /></strong><br/>
-    <sub>Đã triển khai 150+ dự án thực tế | Cam kết bảo hành 6 tháng | Hỗ trợ 24/7</sub>
+    <strong><img src="https://api.iconify.design/lucide:zap.svg?color=%232563eb" width="18" /> CHUYÊN THIẾT KẾ WEBSITE CHUẨN SEO | WEB APP NEXT.JS | TÍCH HỢP AI & AUTOMATION TOOLS <img src="https://api.iconify.design/lucide:zap.svg?color=%232563eb" width="18" /></strong><br/>
+    <sub>Đã triển khai 150+ dự án doanh nghiệp thực tế | Cam kết bảo hành 6 tháng | Hỗ trợ kỹ thuật 24/7</sub>
   </p>
 
-  <!-- Badges Row -->
+  <!-- Interactive Badges Row -->
   <p align="center">
     <a href="https://zalo.me/0862497002" target="_blank">
       <img src="https://img.shields.io/badge/Zalo-0862_497_002-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo Contact" />
@@ -18,6 +20,7 @@
     </a>
     <img src="https://img.shields.io/badge/Triển_khai-150%2B_Dự_án-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="150+ Projects Done" />
     <img src="https://img.shields.io/badge/Bảo_hành-6_Tháng-f59e0b?style=for-the-badge&logo=shieldcheck&logoColor=white" alt="6 Months Warranty" />
+    <img src="https://img.shields.io/badge/Trạng_thái-Sẵn_sàng_nhận_dự_án-8b5cf6?style=for-the-badge&logo=checkcircle&logoColor=white" alt="Available for Hire" />
   </p>
 
 </div>
@@ -26,29 +29,30 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:user-check.svg?color=%232563eb" width="22" /> Giới Thiệu & Dịch Vụ Cung Cấp
+### <img src="https://api.iconify.design/lucide:user-check.svg?color=%232563eb" width="22" /> Giới Thiệu & Năng Lực Cốt Lõi (SEO Highlights)
 
 ```yaml
 developer_profile:
   fullname: Trần Trung Kiên (kinnhun)
-  brand: Web & AI Developer / Automation Specialist
+  title: Fullstack Web & AI Developer / Automation Specialist
   contact_zalo: "0862 497 002"
   facebook_page: "https://www.facebook.com/trantrungkien.webai"
-  services:
-    - Thiết kế Website doanh nghiệp, Landing Page chuẩn SEO
-    - Phát triển Web Application & SaaS Dashboard (Next.js, React, Node.js)
-    - Tích hợp AI Assistant, Chatbot, LLMs & Automation Tools
-    - Xây dựng Hệ thống Quản lý Doanh nghiệp, License & E-Commerce
-  experience: "150+ Dự án hoàn thành | Bảo hành kỹ thuật 6 tháng"
+  core_stack: Next.js 15, React 19, TypeScript, Tailwind CSS v4, Node.js, Python, Gemini AI, OpenAI
+  core_services:
+    - Thiết kế Website doanh nghiệp & Landing Page chuẩn SEO Google (PageSpeed 95+)
+    - Phát triển Web Application & SaaS Dashboard (Next.js App Router, Tailwind v4)
+    - Tích hợp AI Assistant, Chatbot LLM & Tool tự động hóa (Python, Bot Scraping, Workflow)
+    - Xây dựng Hệ thống Quản lý Bản quyền License Key & ERP Doanh nghiệp
+  guarantee: "150+ Dự án thành công | Bảo hành kỹ thuật 6 tháng | Tối ưu UI/UX & SEO 100%"
 ```
 
-* <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="16" /> **Dịch vụ cốt lõi:** Thiết kế Website, Web App, Tích hợp AI & Tool tự động hóa chuẩn SEO tối ưu tốc độ và tỷ lệ chuyển đổi.
-* <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322c55e" width="16" /> **Cam kết chất lượng:** Giao diện hiện đại (Glassmorphism, Responsive), chuẩn SEO Google, hỗ trợ bảo hành 6 tháng.
-* <img src="https://api.iconify.design/lucide:phone-call.svg?color=%232563eb" width="16" /> **Tư vấn & Báo giá:** Zalo **0862 497 002** hoặc Facebook [trantrungkien.webai](https://www.facebook.com/trantrungkien.webai).
+* <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="16" /> **Website chuẩn SEO & Tối ưu chuyển đổi:** Đảm bảo tốc độ load trang dưới 1s, chuẩn SEO Audit Google, Responsive mượt mà trên Mobile & Desktop.
+* <img src="https://api.iconify.design/lucide:cpu.svg?color=%238b5cf6" width="16" /> **Tích hợp AI & Tool tự động hóa:** Tích hợp Gemini AI / ChatGPT vào website, tự động hóa quy trình quản lý, tiết kiệm 80% thời gian vận hành.
+* <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322c55e" width="16" /> **Hỗ trợ & Bảo hành lâu dài:** Đồng hành cùng dự án với chính sách bảo hành 6 tháng, bàn giao source code sạch chuẩn clean-architecture.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%232563eb" width="22" /> Công Nghệ & Hệ Sinh Thái Kỹ Thuật (Skill Icons)
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%232563eb" width="22" /> Công Nghệ & Hệ Sinh Thái Kỹ Thuật (Skill Icons Wall)
 
 <div align="center">
 
@@ -62,47 +66,64 @@ developer_profile:
 
 <div align="center">
 
-| Mảng Công Nghệ | Tech Icons & Badges |
+| Mảng Công Nghệ | Tech Badges & Frameworks |
 | :--- | :--- |
-| **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
 | **Backend & Automation** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python Automation](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white) |
-| **Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **AI & SEO Tools** | ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_LLM-412991?style=flat-square&logo=openai&logoColor=white) ![SEO Google](https://img.shields.io/badge/SEO_Audit-22c55e?style=flat-square&logo=googleanalytics&logoColor=white) |
+| **AI Integration & LLM** | ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=google&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_LLM-412991?style=flat-square&logo=openai&logoColor=white) ![Automation Bot](https://img.shields.io/badge/AI_Automation-2563eb?style=flat-square&logo=robot&logoColor=white) |
+| **Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232563eb" width="22" /> Dự Án Tiêu Biểu & Sản Phẩm Đã Triển Khai (150+ Projects)
+### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232563eb" width="22" /> Visual Showcase — Dự Án Tiêu Biểu (150+ Completed Projects)
 
-#### <img src="https://api.iconify.design/lucide:building-2.svg?color=%232563eb" width="18" /> 1. Hệ Thống Doanh Nghiệp, Bản Quyền & Thương Mại
-| Tên Dự Án | Mô Tả & Công Nghệ | Đường Dẫn Website |
-| :--- | :--- | :---: |
-| <img src="https://api.iconify.design/lucide:key-round.svg?color=%23f59e0b" width="16" /> **Mercy Keys** | Hệ thống quản lý bản quyền & cấp phép phần mềm OnlyOffice doanh nghiệp | [Xem ngay <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://onlyoffice.mercytechglobal.com/) |
-| <img src="https://api.iconify.design/lucide:globe.svg?color=%232563eb" width="16" /> **Mercy Tech Global** | Portal chính thức của tập đoàn công nghệ Mercy Tech Global | [Xem ngay <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://mercytechglobal.com/) |
-| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322c55e" width="16" /> **TuanKey System** | Nền tảng phân phối & quản lý License key tự động | [Xem ngay <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://www.tuankey.com/) |
-| <img src="https://api.iconify.design/lucide:utensils.svg?color=%23ef4444" width="16" /> **App Buffet Manager** | Web App quản lý nhà hàng & đặt món Buffet thông minh | [Xem ngay <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://app-buffet.vercel.app/) |
+#### 🏢 1. Hệ Thống Doanh Nghiệp, Bản Quyền & Quản Lý ERP
 
-#### <img src="https://api.iconify.design/lucide:zap.svg?color=%23eab308" width="18" /> 2. Bộ Giải Pháp Năng Lượng & Quản Lý Carbon (Bình Minh Power Ecosystem)
-> *Bộ 3 hệ thống số hóa quy trình năng lượng, mua bán điện PPA và kiểm kê khí thải Carbon CBAM theo tiêu chuẩn quốc tế:*
+<div align="center">
 
-| Tên Dự Án | Chức Năng Cốt Lõi | Đường Dẫn Website |
-| :--- | :--- | :---: |
-| <img src="https://api.iconify.design/lucide:zap.svg?color=%23eab308" width="16" /> **PPA Bình Minh Power** | Hệ thống Quản lý & Hợp đồng Mua bán Điện Trực tiếp (PPA) | [ppa.binhminhpower.com <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://ppa.binhminhpower.com/) |
-| <img src="https://api.iconify.design/lucide:leaf.svg?color=%2322c55e" width="16" /> **CBAM Carbon Management** | Nền tảng Kiểm kê & Tính toán Tải lượng Carbon CBAM xuất khẩu | [cbam.mercytechglobal.com <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://cbam.mercytechglobal.com/) |
-| <img src="https://api.iconify.design/lucide:hard-hat.svg?color=%23f97316" width="16" /> **EPC Bình Minh Power** | Hệ thống Quản lý Dự án Thiết kế, Mua sắm & Thi công Năng lượng EPC | [epc.binhminhpower.com <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://epc.binhminhpower.com/) |
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website |
+| :---: | :--- | :---: |
+| <a href="https://onlyoffice.mercytechglobal.com/" target="_blank"><img src="./assets/projects/mercy-keys.png" width="360" alt="Mercy Keys Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **Mercy Keys — License & Authorization Management**<br/>• Quản lý bản quyền & cấp phép phần mềm OnlyOffice tự động.<br/>• Tích hợp sinh key mã hóa, quản lý khách hàng doanh nghiệp.<br/>• **Tech:** `Next.js` `TypeScript` `Tailwind` `PostgreSQL` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://onlyoffice.mercytechglobal.com/) |
+| <a href="https://mercytechglobal.com/" target="_blank"><img src="./assets/projects/mercy-tech.png" width="360" alt="Mercy Tech Global Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **Mercy Tech Global Portal**<br/>• Portal chính thức của tập đoàn công nghệ Mercy Tech Global.<br/>• Giao diện Glassmorphism hiện đại, tối ưu SEO 98/100.<br/>• **Tech:** `Next.js App Router` `Framer Motion` `SEO Standard` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://mercytechglobal.com/) |
+| <a href="https://www.tuankey.com/" target="_blank"><img src="./assets/projects/tuankey.png" width="360" alt="TuanKey Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **TuanKey System — License Key Distribution**<br/>• Nền tảng phân phối & quản lý License key tự động 100%.<br/>• Tích hợp hệ thống thanh toán tự động & quản lý API.<br/>• **Tech:** `Web App` `Node.js` `Automation` `Payment API` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://www.tuankey.com/) |
+| <a href="https://app-buffet.vercel.app/" target="_blank"><img src="./assets/projects/app-buffet.png" width="360" alt="App Buffet Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **App Buffet Manager — Smart Restaurant Platform**<br/>• Web App quản lý nhà hàng & đặt món Buffet thông minh.<br/>• Quản lý sơ đồ bàn, menu món & thống kê doanh thu real-time.<br/>• **Tech:** `Next.js` `React` `Tailwind CSS` `Vercel` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://app-buffet.vercel.app/) |
 
-#### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238b5cf6" width="18" /> 3. Giáo Dục, Văn Hóa & Thương Mại Điện Tử
-| Tên Dự Án | Lĩnh Vực & Đặc Điểm | Đường Dẫn Website |
-| :--- | :--- | :---: |
-| <img src="https://api.iconify.design/lucide:book-open.svg?color=%233b82f6" width="16" /> **Luyện Thi Cấp Tốc** | Nền tảng học & ôn thi trực tuyến tối ưu trải nghiệm học viên | [luyenthicaptoc.vn <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://www.luyenthicaptoc.vn/) |
-| <img src="https://api.iconify.design/lucide:landmark.svg?color=%23d97706" width="16" /> **Làng Đề Việt Nam** | Trang thông tin văn hóa & di sản làng nghề Việt Nam chuẩn SEO | [langdevietnam.com <img src="https://api.iconify.design/lucide:external-link.svg?color=%232563eb" width="14" />](https://langdevietnam.com/) |
-| <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ec4899" width="16" /> **MISU Closet** | Nền tảng E-Commerce thời trang hiện đại & mượt mà | [GitHub Repo <img src="https://api.iconify.design/lucide:github.svg?color=%23181717" width="14" />](https://github.com/kinnhun/misucloset) |
-| <img src="https://api.iconify.design/lucide:school.svg?color=%236366f1" width="16" /> **HGS Management** | Hệ thống quản lý trường học & đào tạo trực tuyến (Capstone) | [GitHub Repo <img src="https://api.iconify.design/lucide:github.svg?color=%23181717" width="14" />](https://github.com/khanhpd2402/hgs-management-system) |
+</div>
+
+<br/>
+
+#### ⚡ 2. Bộ Giải Pháp Năng Lượng & Quản Lý Carbon CBAM (Bình Minh Power Ecosystem)
+
+<div align="center">
+
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website |
+| :---: | :--- | :---: |
+| <a href="https://ppa.binhminhpower.com/" target="_blank"><img src="./assets/projects/ppa-binhminh.png" width="360" alt="PPA Binh Minh Power Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **PPA Bình Minh Power — Direct Power Purchase**<br/>• Hệ thống Quản lý & Hợp đồng Mua bán Điện Trực tiếp (PPA).<br/>• Số hóa hợp đồng điện năng lượng mặt trời cho doanh nghiệp.<br/>• **Tech:** `Next.js` `Tailwind CSS` `Energy Management` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://ppa.binhminhpower.com/) |
+| <a href="https://cbam.mercytechglobal.com/" target="_blank"><img src="./assets/projects/cbam-carbon.png" width="360" alt="CBAM Carbon Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **CBAM Carbon Management — International Carbon Accounting**<br/>• Nền tảng Kiểm kê & Tính toán Tải lượng Carbon CBAM xuất khẩu EU.<br/>• Đáp ứng quy chuẩn khí thải quốc tế & báo cáo tự động.<br/>• **Tech:** `Next.js` `Python Analytics` `Carbon CBAM` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://cbam.mercytechglobal.com/) |
+| <a href="https://epc.binhminhpower.com/" target="_blank"><img src="./assets/projects/epc-binhminh.png" width="360" alt="EPC Binh Minh Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **EPC Bình Minh Power — Solar Project Engineering**<br/>• Hệ thống Quản lý Dự án Thiết kế, Mua sắm & Thi công Năng lượng EPC.<br/>• Quản lý tiến độ công trình, vật tư & chất lượng dự án.<br/>• **Tech:** `Web App` `PostgreSQL` `SaaS Dashboard` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://epc.binhminhpower.com/) |
+
+</div>
+
+<br/>
+
+#### 🎓 3. Giáo Dục, Văn Hóa & Thương Mại Điện Tử (EdTech & E-Commerce)
+
+<div align="center">
+
+| Hình Ảnh Minh Họa Thực Tế | Dự Án & Chi Tiết Công Nghệ | Truy Cập Website |
+| :---: | :--- | :---: |
+| <a href="https://www.luyenthicaptoc.vn/" target="_blank"><img src="./assets/projects/luyenthicaptoc.png" width="360" alt="Luyen Thi Cap Toc Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **Luyện Thi Cấp Tốc — EdTech Exam Prep Platform**<br/>• Nền tảng học & ôn thi trực tuyến tối ưu trải nghiệm học viên.<br/>• Ngân hàng đề thi trắc nghiệm thông minh, tính điểm tức thì.<br/>• **Tech:** `React` `Next.js` `SEO High Score` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://www.luyenthicaptoc.vn/) |
+| <a href="https://langdevietnam.com/" target="_blank"><img src="./assets/projects/langdevietnam.png" width="360" alt="Lang De Viet Nam Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **Làng Đề Việt Nam — Cultural Heritage Portal**<br/>• Trang thông tin văn hóa & di sản làng nghề Việt Nam chuẩn SEO Google.<br/>• Tải trang cực nhanh, tối ưu cấu trúc schema dữ liệu di sản.<br/>• **Tech:** `Next.js` `SEO Optimization` `Responsive` | [<img src="https://img.shields.io/badge/Xem_Live-0068FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://langdevietnam.com/) |
+| <a href="https://github.com/kinnhun/misucloset" target="_blank"><img src="./assets/projects/misu-closet.png" width="360" alt="MISU Closet Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **MISU Closet — Modern E-Commerce Platform**<br/>• Nền tảng E-Commerce thời trang hiện đại & mượt mà.<br/>• Quản lý sản phẩm, giỏ hàng & thanh toán trực tuyến.<br/>• **Tech:** `Next.js` `Tailwind CSS` `TypeScript` | [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kinnhun/misucloset) |
+| <a href="https://github.com/khanhpd2402/hgs-management-system" target="_blank"><img src="./assets/projects/hgs-management.png" width="360" alt="HGS Management Preview" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" /></a> | **HGS Management — School & Academy ERP System**<br/>• Hệ thống quản lý trường học & đào tạo trực tuyến toàn diện.<br/>• Phân quyền giáo viên, học sinh, điểm số & học phí.<br/>• **Tech:** `React` `Node.js` `MongoDB` `Express` | [<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/khanhpd2402/hgs-management-system) |
+
+</div>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%232563eb" width="22" /> Thống Kê Hoạt Động GitHub
+### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%232563eb" width="22" /> Thống Kê Hoạt Động GitHub (GitHub Metrics)
 
 <div align="center">
 
