@@ -23,20 +23,20 @@
 
   <!-- Status & Contact Badges -->
   <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B1_Zalo-0862_497_002-0068FF?style=for-the-badge&labelColor=1a1a2e" alt="Liên hệ Zalo" />
+    <img src="https://img.shields.io/badge/Zalo-0862_497_002-0068FF?style=for-the-badge&logo=zalo&logoColor=white&labelColor=1a1a2e" alt="Liên hệ Zalo" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/trantrungkien.webai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Facebook-trantrungkien.webai-1877F2?style=for-the-badge&labelColor=1a1a2e" alt="Facebook WebAI" />
+    <img src="https://img.shields.io/badge/Facebook-trantrungkien.webai-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook WebAI" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Dự_Án-150%2B_Hoàn_Thành-00C853?style=for-the-badge&labelColor=1a1a2e" alt="150+ Dự án" />
+  <img src="https://img.shields.io/badge/Dự_Án-150%2B_Hoàn_Thành-00C853?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e" alt="150+ Dự án" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Bảo_Hành-6_Tháng-FF6D00?style=for-the-badge&labelColor=1a1a2e" alt="Bảo hành 6 tháng" />
+  <img src="https://img.shields.io/badge/Bảo_Hành-6_Tháng-FF6D00?style=for-the-badge&logo=verified&logoColor=white&labelColor=1a1a2e" alt="Bảo hành 6 tháng" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/STATUS-%E2%9C%85_SẴN_SÀNG_NHẬN_DỰ_ÁN-7C4DFF?style=for-the-badge&labelColor=1a1a2e" alt="Sẵn sàng nhận dự án" />
+  <img src="https://img.shields.io/badge/STATUS-SẴN_SÀNG_NHẬN_DỰ_ÁN-7C4DFF?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e" alt="Sẵn sàng nhận dự án" />
 
 </div>
 
@@ -104,10 +104,10 @@ const developer = {
 
 | &nbsp; | Phân Vùng | Công Nghệ Sử Dụng |
 | :---: | :--- | :--- |
-| ⚛️ | **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat&logo=nextdotjs&logoColor=fff) ![React](https://img.shields.io/badge/React_19-087EA4?style=flat&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=fff) ![Motion](https://img.shields.io/badge/Framer_Motion-E91E63?style=flat&logo=framer&logoColor=fff) |
-| 🔧 | **Backend & API** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) ![FastAPI](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=fff) |
-| 🧠 | **AI & LLM** | ![Gemini](https://img.shields.io/badge/Gemini_AI-886FBF?style=flat&logo=googlegemini&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff) ![Bot](https://img.shields.io/badge/AI_Automation-FF6F00?style=flat&logo=probot&logoColor=fff) |
-| 🗄️ | **Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff) |
+| <img src="https://api.iconify.design/lucide:monitor.svg?color=%232563eb" width="18" /> | **Frontend & UI/UX** | ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat&logo=nextdotjs&logoColor=fff) ![React](https://img.shields.io/badge/React_19-087EA4?style=flat&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat&logo=tailwindcss&logoColor=fff) ![Motion](https://img.shields.io/badge/Framer_Motion-E91E63?style=flat&logo=framer&logoColor=fff) |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%237C4DFF" width="18" /> | **Backend & API** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff) ![FastAPI](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=fff) |
+| <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FF6F00" width="18" /> | **AI & LLM** | ![Gemini](https://img.shields.io/badge/Gemini_AI-886FBF?style=flat&logo=googlegemini&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff) ![Bot](https://img.shields.io/badge/AI_Automation-FF6F00?style=flat&logo=probot&logoColor=fff) |
+| <img src="https://api.iconify.design/lucide:database.svg?color=%2322c55e" width="18" /> | **Database & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff) |
 
 </div>
 
@@ -119,7 +119,7 @@ const developer = {
 
 <!-- ── GROUP 1: Enterprise & ERP ── -->
 
-### 🏢 Hệ Thống Doanh Nghiệp, Bản Quyền & ERP
+### <img src="https://api.iconify.design/lucide:building-2.svg?color=%232563eb" width="20" /> &nbsp;Hệ Thống Doanh Nghiệp, Bản Quyền & ERP
 
 <table>
   <tr>
@@ -180,7 +180,7 @@ const developer = {
 
 <!-- ── GROUP 2: Energy & Carbon ── -->
 
-### ⚡ Bộ Giải Pháp Năng Lượng & Quản Lý Carbon CBAM
+### <img src="https://api.iconify.design/lucide:zap.svg?color=%23FF6D00" width="20" /> &nbsp;Bộ Giải Pháp Năng Lượng & Quản Lý Carbon CBAM
 
 <table>
   <tr>
@@ -227,7 +227,7 @@ const developer = {
 
 <!-- ── GROUP 3: EdTech & E-Commerce ── -->
 
-### 🎓 Giáo Dục, Văn Hóa & Thương Mại Điện Tử
+### <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%237C4DFF" width="20" /> &nbsp;Giáo Dục, Văn Hóa & Thương Mại Điện Tử
 
 <table>
   <tr>
@@ -313,7 +313,7 @@ const developer = {
 
 <div align="center">
 
-  <h4>💬 Sẵn sàng biến ý tưởng của bạn thành sản phẩm số cao cấp!</h4>
+  <h4><img src="https://api.iconify.design/lucide:sparkles.svg?color=%237C4DFF" width="20" /> Sẵn sàng biến ý tưởng của bạn thành sản phẩm số cao cấp!</h4>
 
   <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Zalo_0862.497.002-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Liên hệ qua Zalo" />
