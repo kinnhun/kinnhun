@@ -12,11 +12,11 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=TRẦN%20TRUNG%20KIÊN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Web%20%26%20AI%20Developer%20%E2%80%A2%20Automation%20Specialist&descSize=16&descAlignY=52&descAlign=50" width="100%" alt="Trần Trung Kiên - Fullstack Web & AI Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=TRAN%20TRUNG%20KIEN&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Fullstack%20Web%20%26%20AI%20Developer%20•%20Automation%20Specialist&descSize=16&descAlignY=54&descAlign=50" width="100%" alt="Tran Trung Kien - Fullstack Web and AI Developer Banner" />
 
   <!-- Dynamic Typing Effect -->
   <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;%F0%9F%92%BC+150%2B+D%E1%BB%B1+%C3%A1n+th%E1%BB%B1c+t%E1%BA%BF+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng+%7C+H%E1%BB%97+tr%E1%BB%A3+24%2F7;%E2%9A%A1+Next.js+15+%7C+React+19+%7C+Tailwind+v4+%7C+Gemini+AI" alt="Trần Trung Kiên - Web & AI Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%9A%80+Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;%F0%9F%92%BC+150%2B+D%E1%BB%B1+%C3%A1n+th%E1%BB%B1c+t%E1%BA%BF+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng+%7C+H%E1%BB%97+tr%E1%BB%A3+24%2F7;%E2%9A%A1+Next.js+15+%7C+React+19+%7C+Tailwind+v4+%7C+Gemini+AI" alt="Tran Trung Kien - Web and AI Developer" />
   </a>
 
   <br/>
