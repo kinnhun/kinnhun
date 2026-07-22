@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Title -->
   <a href="https://zalo.me/0862497002" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=Tr%E1%BA%A7n+Trung+Ki%C3%AAn+%E2%80%94+Web+%26+AI+Developer;Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;Chu%E1%BA%A9n+SEO+100%25+%7C+150%2B+D%E1%BB%B1+%C3%A1n+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng" alt="Trần Trung Kiên - Web & AI Developer Slogan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=Tr%E1%BA%A7n+Trung+Ki%C3%AAn+%E2%80%94+Web+%26+AI+Developer;Thi%E1%BA%BFt+k%E1%BA%BF+Website+Chu%E1%BA%A9n+SEO+%7C+Web+App+%7C+AI+Integration;Chu%E1%BA%A9n+SEO+100%25+%7C+150%2B+D%E1%BB%B1+%C3%A1n+%7C+B%E1%BA%A3o+h%C3%A0nh+6+th%C3%A1ng" alt="Trần Trung Kiên - Web & AI Developer Slogan" />
   </a>
 
   <p align="center">
